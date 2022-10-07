@@ -28,6 +28,10 @@ Open the code folder
 ```
 cd src
 ```
+Install tkinter (recommended)
+```
+sudo apt install python3-tk
+```
 Run the main.py file
 ```
 python3 main.py
